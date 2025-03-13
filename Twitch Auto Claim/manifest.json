@@ -3,6 +3,11 @@
   "name": "Twitch 忠誠點數自動領取",
   "version": "1.0",
   "description": "自動領取 Twitch 上的忠誠點數並記錄日誌",
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
   "permissions": ["scripting", "storage", "downloads"],
   "host_permissions": ["https://www.twitch.tv/*"],
   "background": {
